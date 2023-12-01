@@ -1,8 +1,8 @@
 @font-face {
   font-family: FontName;
-  src: url('/assets/fonts/yekanbakh/YekanBakh-Regular.eot'),
-    url('/assets/fonts/yekanbakh/YekanBakh-Regular.woff') format('woff'),
-    url('/assets/fonts/yekanbakh/YekanBakh-Regular.ttf') format('truetype');
+  src: url('assets/fonts/yekanbakh/YekanBakh-Regular.eot'),
+    url('assets/fonts/yekanbakh/YekanBakh-Regular.woff') format('woff'),
+    url('assets/fonts/yekanbakh/YekanBakh-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
